@@ -4,7 +4,7 @@ import datetime
 import requests
 
 access = "shcKhf6xSUJi0ctfcHilH0Na7thPPIRPJjFurVKY"
-secret = "AdLIGWiH5TxO5fFKpXXxSdMxXkYaPlJg9kUE7xfq"
+secret = "secret"
 myToken = "xoxb-2413078262596-2403856451157-BdLye9BRmAl92qvHLuLCklD5"
 
 def post_message(token, channel, text):
